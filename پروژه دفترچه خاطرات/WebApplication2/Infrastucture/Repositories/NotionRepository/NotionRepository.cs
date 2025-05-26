@@ -11,44 +11,44 @@ namespace WebApplication2.Infrastucture.Repositories.NotionRepository
     {
 
 
-       
-        
-            private readonly ApplicationDbContext _context;
-            public NotionRepository(ApplicationDbContext _dbcontext)
+
+
+        private readonly ApplicationDbContext _context;
+        public NotionRepository(ApplicationDbContext _dbcontext)
+        {
+            _context = _dbcontext;
+        }
+        public async Task<Notion> Create(Notion notion)
+        {
+            var creatuser = await _context.Notions.AddAsync(notion);
+            await _context.SaveChangesAsync();
+            return creatuser.Entity;
+        }
+        public async Task<bool> Delete(Notion notion)
+        {
+            if (notion is not null)
             {
-                _context = _dbcontext;
-            }
-            public async Task<Notion> Create(Notion notion)
-            {
-                var creatuser = await _context.notions.AddAsync(notion);
+                notion.AppAction = Domain.Enum.AddAction.AddAction.Deleted;
                 await _context.SaveChangesAsync();
-                return creatuser.Entity;
+                return true;
             }
-            public async Task<bool> Delete(Notion notion)
+
+
+            else { return false; }
+
+        }
+        public async Task<Notion> Update(Notion notion)
+        {
+            if (notion is not null)
             {
-                if (notion is not null)
-                {
-                    notion.AppAction = Domain.Enum.AddAction.AddAction.Deleted;
-                    await _context.SaveChangesAsync();
-                    return true;
-                }
-
-
-                else { return false; }
-
+                _context.Notions.Update(notion);
+                await _context.SaveChangesAsync();
             }
-            public async Task<Notion> Update(Notion notion)
-            {
-                if (notion is not null)
-                {
-                    _context.notions.Update(notion);
-                    await _context.SaveChangesAsync();
-                }
-                return notion;
-            }
+            return notion;
+        }
         public async Task<Notion> GetById(int id)
         {
-            var Findnoyion = await _context.notions.FindAsync(id);
+            var Findnoyion = await _context.Notions.FindAsync(32);
             return Findnoyion;
         }
         //public  IQueryable<Notion> GetById(int id)
@@ -57,13 +57,13 @@ namespace WebApplication2.Infrastucture.Repositories.NotionRepository
         //    return Findnotion;
         //}
         public IQueryable<Notion> GetAll()
-            {
-                var users = _context.notions.Where(x => x.AppAction == Domain.Enum.AddAction.AddAction.Active);
-                return users;
-            }
+        {
+            var users = _context.Notions.Where(x => x.AppAction == Domain.Enum.AddAction.AddAction.Active);
+            return users;
+        }
 
 
 
-        
+
     }
 }

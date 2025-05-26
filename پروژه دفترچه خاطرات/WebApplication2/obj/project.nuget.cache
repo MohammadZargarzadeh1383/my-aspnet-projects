@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dgzMCgMxQKje4rwc6XpZBBZaarorwIjwAO4VRTtUWxS9EVs5+DjPJa8IxDZAtdR3Rq9UFm2T4m90mKboIb6aHA==",
+  "dgSpecHash": "ozl0r6m0fOg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.22\\microsoft.aspnetcore.authentication.jwtbearer.6.0.22.nupkg.sha512",
+    "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.32\\microsoft.aspnetcore.connections.abstractions.6.0.32.nupkg.sha512",
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

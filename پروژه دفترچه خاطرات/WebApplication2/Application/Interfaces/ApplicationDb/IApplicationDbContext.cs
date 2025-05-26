@@ -7,8 +7,8 @@ namespace WebApplication2.Application.Interfaces.ApplicationDd
 {
     public interface IApplicationDbContext
     {
-        public DbSet<User> users { get; }
-        public DbSet<Notion> notions { get; }
+        public DbSet<User> Users { get; }
+        public DbSet<Notion> Notions { get; }
 
         public DbSet<TEntity> SetDbset<TEntity>() where TEntity : BaseEntity;
     }

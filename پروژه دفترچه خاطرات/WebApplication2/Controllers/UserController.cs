@@ -1,46 +1,62 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
 using WebApplication2.Application.Interfaces.Repositories;
-using WebApplication2.Application.Models.User;
+using WebApplication2.Application.Interfaces.Services;
+using WebApplication2.Application.Models.Dto.User;
 using WebApplication2.Domain.Entities.User;
 
 namespace WebApplication2.Controllers
 {
+    [Authorize]
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
         private readonly IUserRepository _userRepository;
-
-        public UserController(IUserRepository userRepository)
+        private readonly IJwtOperation _jwtOperation;
+        public UserController(IUserRepository userRepository, IJwtOperation jwtOperation)
         {
             _userRepository = userRepository;
+            _jwtOperation = jwtOperation;
         }
-
-        [HttpPost(Name = "createuser")]
-        public async Task<ActionResult<User>> CreateUser(CreateUserDto userdto)
+        [AllowAnonymous]
+        [HttpPost("createuser")]
+        public async Task<ActionResult> CreateUser(CreateUserDto userdto)
         {
-            if (userdto.RePassword == userdto.Password)
-            {
                 var user = new User()
                 {
                     Password = userdto.Password,
                     UserName = userdto.UserName,
                     CreatedBy = "system",
                     CreatedAt = DateTime.Now,
-
-
                 };
                 var createuser = await _userRepository.Create(user);
-                return Ok(createuser);
-            }
-            else { return BadRequest(); }
-
+                var token = await _jwtOperation.GenerateTokenAsync(userdto.UserName, createuser.Id);
+                return Ok(token);
         }
+        [AllowAnonymous]
+        [HttpPost("login")]
+        public async Task<ActionResult> Login([FromBody] CreateUserDto userdto)
+        {
+            var Loginuser = await _userRepository.GetAll().Where(x => x.UserName == userdto.UserName && x.Password == userdto.Password).FirstOrDefaultAsync();
+            if (Loginuser != null)
+            { 
+                var token = await _jwtOperation.GenerateTokenAsync(Loginuser.UserName, Loginuser.Id);
+                return Ok(token);
+            }
+            else
+            {
+                return BadRequest();
+            }
+        }
+        [AllowAnonymous]
 
         [HttpGet(Name = "GetAllUser")]
         public async Task<ActionResult<List<ShowUserDto>>> GetAllUser()
         {
+
             var createuser = await _userRepository.GetAll().Select(x => new ShowUserDto
             {
                 Id = x.Id,
@@ -68,14 +84,14 @@ namespace WebApplication2.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<User>> UpdateUser([FromQuery]int id , [FromBody]CreateUserDto userdto)
+        public async Task<ActionResult<User>> UpdateUser([FromQuery] int id, [FromBody] CreateUserDto userdto)
         {
             var user = await _userRepository.GetById(id);
             if (user == null)
             {
                 return NotFound();
             }
-            else 
+            else
             {
                 user.UserName = userdto.UserName;
                 user.UpdatedAt = DateTime.Now;

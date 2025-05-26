@@ -64,7 +64,7 @@ namespace WebApplication2.Migrations
 
                     b.HasIndex("UserRef");
 
-                    b.ToTable("notions");
+                    b.ToTable("Notions");
                 });
 
             modelBuilder.Entity("WebApplication2.Domain.Entities.User.User", b =>
@@ -97,6 +97,10 @@ namespace WebApplication2.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime2");
 
@@ -108,7 +112,7 @@ namespace WebApplication2.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("users");
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("WebApplication2.Domain.Entities.Notion.Notion", b =>

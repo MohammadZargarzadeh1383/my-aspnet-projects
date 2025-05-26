@@ -15,7 +15,7 @@ namespace WebApplication2.Infrastucture.Repositories.userRepository
         }
         public async Task<User> Create(User user)
         {
-            var creatuser = await _context.users.AddAsync(user);
+            var creatuser = await _context.Users.AddAsync(user);
             await _context.SaveChangesAsync();
             return creatuser.Entity;
         }
@@ -36,19 +36,19 @@ namespace WebApplication2.Infrastucture.Repositories.userRepository
         {
             if (user is not null)
             {
-                _context.users.Update(user);
+                _context.Users.Update(user);
                 await _context.SaveChangesAsync();
             }
             return user;
         }
         public async Task<User> GetById(int id)
         {
-            var Finduser = await _context.users.FindAsync(id);
+            var Finduser = await _context.Users.FindAsync(id);
             return Finduser;
         }
         public async Task<int> GetId(int id)
         {
-            var userId = await _context.users
+            var userId = await _context.Users
                 .Where(x => x.Id == id)
                 .Select(x => x.Id)  // فقط مقدار Id را بگیر
                 .SingleOrDefaultAsync();
@@ -58,7 +58,7 @@ namespace WebApplication2.Infrastucture.Repositories.userRepository
 
         public IQueryable<User> GetAll()
         {
-            var users = _context.users.Where(x => x.AppAction == Domain.Enum.AddAction.AddAction.Active);
+            var users = _context.Users.Where(x => x.AppAction == Domain.Enum.AddAction.AddAction.Active);
             return users;
         }
 

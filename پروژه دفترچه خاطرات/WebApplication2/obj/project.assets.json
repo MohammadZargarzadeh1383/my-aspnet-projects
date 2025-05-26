@@ -59,7 +59,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.22": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.21": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.10.0"
@@ -1543,10 +1543,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.22": {
-      "sha512": "+iuPmRkxfJ2vHoXifWqPJK8jppS8+iH3m1B8VMdgVWiC2U4q3JPBXx/kb7348HfClMPG+OcHpTUtmJkfUByvgg==",
+    "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.21": {
+      "sha512": "EZfFWxMTd2Su5kfhaL5gIhEGANVcBV89qQX4nu/akSQNutW4AjfEujniQJTn/PXUaqOhWnykyKmly4p66CzbRA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.22",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.21",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1554,7 +1554,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
         "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
-        "microsoft.aspnetcore.authentication.jwtbearer.6.0.22.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
@@ -4063,7 +4063,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.22",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.21",
       "Microsoft.AspNetCore.Http >= 2.2.2",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
       "Microsoft.AspNetCore.SignalR.Client >= 6.0.32",
@@ -4077,19 +4077,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\": {}
+    "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\MOHAMADREZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4097,7 +4102,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4110,7 +4114,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -4118,7 +4128,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
-            "version": "[6.0.22, )"
+            "version": "[6.0.21, )"
           },
           "Microsoft.AspNetCore.Http": {
             "target": "Package",
@@ -4184,7 +4194,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

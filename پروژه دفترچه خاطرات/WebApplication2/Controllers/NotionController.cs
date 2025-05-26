@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Application.Interfaces.Repositories;
-using WebApplication2.Application.Models.Notion;
-using WebApplication2.Application.Models.User;
+using WebApplication2.Application.Models.Dto.Notion;
 using WebApplication2.Domain.Entities.Notion;
 using WebApplication2.Domain.Entities.User;
 using WebApplication2.Infrastucture.Repositories.NotionRepository;
@@ -21,8 +20,9 @@ namespace WebApplication2.Controllers
         }
 
         [HttpPost(Name = "{id}")]
-        public async Task<ActionResult<Notion>> CreateNotion([FromQuery]int id , CreatNotionDto notionDto)
+        public async Task<ActionResult<Notion>> CreateNotion(CreatNotionDto notionDto)
         {
+            var userid = User.Claims.FirstOrDefault(x => x.Type == "UserId").Value;
             var notion = new Notion()
             {
                 Title = notionDto.Title,
@@ -30,13 +30,11 @@ namespace WebApplication2.Controllers
                 CreatedBy = "system",
                 CreatedAt = DateTime.Now,
                 Location = "اصفهان",
-                UserRef = id
-                
+                UserRef = int.Parse(userid)
             };
             var createnotion = await _notionRepository.Create(notion);
             return Ok(createnotion);
         }
-
 
         [HttpGet(Name = "GetAllNotion")]
         public async Task<ActionResult<List<ShowNotionDto>>> GetAllNotion()
@@ -66,10 +64,11 @@ namespace WebApplication2.Controllers
             return Ok(result);
         }
 
-        [HttpPut("{id}")]
-        public async Task<ActionResult<Notion>> UpdateNotion(/*[FromQuery]*/ int id, [FromBody] CreatNotionDto notiondto)
+        [HttpPut("Update")]
+        public async Task<ActionResult<Notion>> UpdateNotion([FromQuery]int id, [FromBody] CreatNotionDto notiondto)
         {
-            var notion = await _notionRepository.GetById(id);
+            //var userid = User.Claims.FirstOrDefault(x => x.Type == "UserId").Value;
+            var notion = await _notionRepository.GetById(/*int.Parse(userid)*/id);
             if (notion == null)
             {
                 return NotFound();
@@ -83,11 +82,11 @@ namespace WebApplication2.Controllers
                 return Ok(updatenotion);
             };
         }
-
         [HttpDelete("{id}")]
-        public async Task<ActionResult> DeleteNotion(int id)
+        public async Task<ActionResult> DeleteNotion()
         {
-            var notion = await _notionRepository.GetById(id);
+            var userid = User.Claims.FirstOrDefault(x => x.Type == "UserId").Value;
+            var notion = await _notionRepository.GetById(int.Parse(userid));
             if (notion == null)
             {
                 return NotFound();

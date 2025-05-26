@@ -15,16 +15,16 @@ namespace WebApplication2.Infrastucture.ApplicationDd
         {
             this.httpContextAccessor = httpContextAccessor;
         }
-        public DbSet<User> users => Set<User>();
-        public DbSet<Notion> notions => Set<Notion>();
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        public DbSet<User> Users => Set<User>();//توی دیتابیس اینجوری جدول درست می کنند 
+        public DbSet<Notion> Notions => Set<Notion>();
+        protected override void OnModelCreating(ModelBuilder modelBuilder)//اینا ثابت اند
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<TEntity> SetDbset<TEntity>()  where TEntity : BaseEntity => Set<TEntity>();
 
-        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder) 
+        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)// اینا ثابت اند
         {
             base.ConfigureConventions(configurationBuilder);
         }

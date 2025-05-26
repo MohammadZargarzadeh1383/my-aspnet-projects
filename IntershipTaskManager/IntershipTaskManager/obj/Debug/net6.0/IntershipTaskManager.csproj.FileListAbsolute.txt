@@ -1,0 +1,163 @@
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\appsettings.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.staticwebassets.endpoints.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.exe
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.deps.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.runtimeconfig.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.pdb
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.csproj.AssemblyReference.cache
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.AssemblyInfo.cs
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\scopedcss\bundle\IntershipTaskManager.styles.css
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.IntershipTaskManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.IntershipTaskManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.build.IntershipTaskManager.props
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntershipTaskManager.props
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntershipTaskManager.props
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\Intershi.359E179D.Up2Date
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\refint\IntershipTaskManager.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.pdb
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.genruntimeconfig.cache
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\ref\IntershipTaskManager.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Code\source\repos\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\appsettings.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.exe
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.deps.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.runtimeconfig.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\IntershipTaskManager.pdb
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.csproj.AssemblyReference.cache
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.AssemblyInfoInputs.cache
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.AssemblyInfo.cs
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.IntershipTaskManager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.build.IntershipTaskManager.props
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntershipTaskManager.props
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntershipTaskManager.props
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\scopedcss\bundle\IntershipTaskManager.styles.css
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.csproj.CopyComplete
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\refint\IntershipTaskManager.dll
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.pdb
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\IntershipTaskManager.genruntimeconfig.cache
+C:\Users\MOHAMADREZA\OneDrive\Desktop\New folder (8)\dont-look-at-me-\IntershipTaskManager\IntershipTaskManager\obj\Debug\net6.0\ref\IntershipTaskManager.dll

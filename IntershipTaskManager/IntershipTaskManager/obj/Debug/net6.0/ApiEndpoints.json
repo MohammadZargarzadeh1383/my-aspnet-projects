@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "IntershipTaskManager.Controllers.IntershipController",
+    "Method": "GetInterships",
+    "RelativePath": "Intership/GetInterships",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[IntershipTaskManager.Domain.Entities.Intership.Intership, IntershipTaskManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IntershipTaskManager.Controllers.IntershipTaskController",
+    "Method": "CreateIntershipTask",
+    "RelativePath": "IntershipTask/CreateIntershipTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "IntershipTaskManager.Application.Models.CreateIntershipTaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IntershipTaskManager.Controllers.MissionController",
+    "Method": "CreateMission",
+    "RelativePath": "Mission/CreateMission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mission",
+        "Type": "IntershipTaskManager.Application.Models.CreateMissionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IntershipTaskManager.Controllers.MissionController",
+    "Method": "GetMissionById",
+    "RelativePath": "Mission/GetMissionById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.UInt32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "IntershipTaskManager.Domain.Entities.Task.Mission",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "IntershipTaskManager.Controllers.MissionController",
+    "Method": "GetMissions",
+    "RelativePath": "Mission/GetMissions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[IntershipTaskManager.Domain.Entities.Task.Mission, IntershipTaskManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
