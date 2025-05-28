@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B751C2DB-1E1C-4715-93CF-89A75B34CB53}|WebApplication4\\WebApplication4.csproj|c:\\users\\mohamadreza\\onedrive\\desktop\\github repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\webapplication4\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751C2DB-1E1C-4715-93CF-89A75B34CB53}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B751C2DB-1E1C-4715-93CF-89A75B34CB53}|WebApplication4\\WebApplication4.csproj|c:\\users\\mohamadreza\\onedrive\\desktop\\github repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\webapplication4\\controllers\\mohammadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B751C2DB-1E1C-4715-93CF-89A75B34CB53}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\mohammadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\WebApplication4\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\WebApplication4\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:53:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MohammadController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\WebApplication4\\Controllers\\MohammadController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\MohammadController.cs",
+              "ToolTip": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062D\u0636\u0648\u0631 \u0648 \u063A\u06CC\u0627\u0628\\WebApplication4\\Controllers\\MohammadController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\MohammadController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:53:40.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

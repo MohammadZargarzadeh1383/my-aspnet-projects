@@ -4083,11 +4083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه ارسال ایمیل\\TAMRIN\\TAMRIN.csproj",
+      "projectUniqueName": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه ارسال ایمیل\\TAMRIN\\TAMRIN.csproj",
       "projectName": "TAMRIN",
-      "projectPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه ارسال ایمیل\\TAMRIN\\TAMRIN.csproj",
+      "projectPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه ارسال ایمیل\\TAMRIN\\TAMRIN.csproj",
       "packagesPath": "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (2)\\my-aspnet-projects\\پروژه ارسال ایمیل\\TAMRIN\\obj\\",
+      "outputPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه ارسال ایمیل\\TAMRIN\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
