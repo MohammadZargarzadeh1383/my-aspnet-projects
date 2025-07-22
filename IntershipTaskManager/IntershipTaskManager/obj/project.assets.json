@@ -2830,19 +2830,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\": {}
+    "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (8)\\dont-look-at-me-\\IntershipTaskManager\\IntershipTaskManager\\IntershipTaskManager.csproj",
+      "projectUniqueName": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\IntershipTaskManager\\IntershipTaskManager\\IntershipTaskManager.csproj",
       "projectName": "IntershipTaskManager",
-      "projectPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (8)\\dont-look-at-me-\\IntershipTaskManager\\IntershipTaskManager\\IntershipTaskManager.csproj",
+      "projectPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\IntershipTaskManager\\IntershipTaskManager\\IntershipTaskManager.csproj",
       "packagesPath": "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (8)\\dont-look-at-me-\\IntershipTaskManager\\IntershipTaskManager\\obj\\",
+      "outputPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\IntershipTaskManager\\IntershipTaskManager\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\MOHAMADREZA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2850,7 +2855,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2863,7 +2867,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -2925,7 +2935,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

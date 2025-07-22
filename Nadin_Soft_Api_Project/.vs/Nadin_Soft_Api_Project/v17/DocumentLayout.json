@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\Nadin_Soft\\Nadin_Progect\\Nadin_Soft_Api_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{444958BD-6067-4D7D-95A1-830BF27BC3F6}|Nadin_Soft_Api_Project\\Nadin_Soft_Api_Project.csproj|c:\\users\\mohamadreza\\onedrive\\desktop\\github repository\\nadin_soft\\nadin_progect\\nadin_soft_api_project\\nadin_soft_api_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444958BD-6067-4D7D-95A1-830BF27BC3F6}|Nadin_Soft_Api_Project\\Nadin_Soft_Api_Project.csproj|solutionrelative:nadin_soft_api_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\Nadin_Soft\\Nadin_Progect\\Nadin_Soft_Api_Project\\Nadin_Soft_Api_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Nadin_Soft_Api_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\Nadin_Soft\\Nadin_Progect\\Nadin_Soft_Api_Project\\Nadin_Soft_Api_Project\\Program.cs",
+              "RelativeToolTip": "Nadin_Soft_Api_Project\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:07:57.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

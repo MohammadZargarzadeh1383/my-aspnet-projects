@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\source\\repos\\webapplication2\\webapplication2\\infrastucture\\repositories\\notionrepository\\notionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\infrastucture\\repositories\\notionrepository\\notionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\source\\repos\\webapplication2\\webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\onedrive\\desktop\\github repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\source\\repos\\webapplication2\\webapplication2\\controllers\\notioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\notioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\onedrive\\desktop\\github repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\webapplication2\\infrastucture\\applicationdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\infrastucture\\applicationdb\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\source\\repos\\webapplication2\\webapplication2\\application\\models\\dto\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\application\\models\\dto\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\source\\repos\\webapplication2\\webapplication2\\domain\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\domain\\entities\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|c:\\users\\mohamadreza\\onedrive\\desktop\\github repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\webapplication2\\application\\services\\jwtoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88443F75-CE9A-4460-8DBB-9CA2842C08C7}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\application\\services\\jwtoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NotionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Infrastucture\\Repositories\\NotionRepository\\NotionRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Infrastucture\\Repositories\\NotionRepository\\NotionRepository.cs",
-              "ToolTip": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Infrastucture\\Repositories\\NotionRepository\\NotionRepository.cs",
-              "RelativeToolTip": "WebApplication2\\Infrastucture\\Repositories\\NotionRepository\\NotionRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAANAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\WebApplication2\\Infrastucture\\ApplicationDb\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Infrastucture\\ApplicationDb\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\WebApplication2\\Infrastucture\\ApplicationDb\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Infrastucture\\ApplicationDb\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:54:25.037Z"
+              "WhenOpened": "2025-07-07T06:19:49.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\Entities\\User\\User.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Domain\\Entities\\User\\User.cs",
-              "ToolTip": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Domain\\Entities\\User\\User.cs",
-              "RelativeToolTip": "WebApplication2\\Domain\\Entities\\User\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:56:22.689Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotionController.cs",
-              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\NotionController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\NotionController.cs",
-              "ToolTip": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\NotionController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\NotionController.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwFMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:33:36.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Application\\Models\\Dto\\User\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Application\\Models\\Dto\\User\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Application\\Models\\Dto\\User\\CreateUserDto.cs",
-              "RelativeToolTip": "WebApplication2\\Application\\Models\\Dto\\User\\CreateUserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:32:07.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:27:42.719Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\WebApplication2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:24:00.362Z",
+              "WhenOpened": "2025-07-09T20:29:31.512Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtOperation.cs",
+              "DocumentMoniker": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\WebApplication2\\Application\\Services\\JwtOperation.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Application\\Services\\JwtOperation.cs",
+              "ToolTip": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\\u067E\u0631\u0648\u0698\u0647 \u062F\u0641\u062A\u0631\u0686\u0647 \u062E\u0627\u0637\u0631\u0627\u062A\\WebApplication2\\Application\\Services\\JwtOperation.cs",
+              "RelativeToolTip": "WebApplication2\\Application\\Services\\JwtOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:34:12.591Z"
             }
           ]
         }

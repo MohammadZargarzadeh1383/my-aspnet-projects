@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XRhXltfh8jg2g0dbMoPMoywADujVjxgEwuJcmqdxX4d2lQOpmy1XKwFrkj32r8dVjY+hyb65dre3vL8/TH+aA==",
+  "dgSpecHash": "acds2pxxc/0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\New folder (8)\\dont-look-at-me-\\IntershipTaskManager\\IntershipTaskManager\\IntershipTaskManager.csproj",
+  "projectFilePath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\IntershipTaskManager\\IntershipTaskManager\\IntershipTaskManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",

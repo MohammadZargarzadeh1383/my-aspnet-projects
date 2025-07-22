@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\MOHAMADREZA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MOHAMADREZA\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\MOHAMADREZA\\OneDrive\\Desktop\\Github Repository\\my-aspnet-projects\\پروژه دفترچه خاطرات\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

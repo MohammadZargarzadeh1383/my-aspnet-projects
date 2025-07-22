@@ -1,8 +1,6 @@
 ﻿using WebApplication2.Domain.Enum.AddAction;
 
 namespace WebApplication2.Domain.common;
-
-
 public class BaseEntity : IBaseEntity
 {
         public int Id { get; set; }
